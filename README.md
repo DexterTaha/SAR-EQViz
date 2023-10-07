@@ -7,7 +7,7 @@
   <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
 </p>
 
-Disclaimer: This project is currently under construction. Some features might not be fully functional. And was developed in response to <a href="https://www.spaceappschallenge.org/2023/challenges/create-a-work-of-sart-synthetic-aperture-radar-art/">NASA International Space Apps Challenge</a> / <a href="https://www.spaceappschallenge.org/2023/locations/tangier/">Casablanca</a>
+Disclaimer: This project is currently under construction. Some features might not be fully functional. And was developed in response to <a href="https://www.spaceappschallenge.org/2023/challenges/create-a-work-of-sart-synthetic-aperture-radar-art/">NASA International Space Apps Challenge</a> / <a href="https://www.spaceappschallenge.org/2023/locations/tangier/">Tangier</a>
 
 ## :pushpin: About
 SAR-EQViz is a revolutionary approach to post-seismic analysis and visualization. By showing land displacement data from SAR (Synthetic Aperture Radar) data and high-resolution, up-close drone scans. We developed an interactive digital art platform that serves as an educational tool, an advocacy platform, and a bridge between scientific data and public understanding.
