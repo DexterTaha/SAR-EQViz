@@ -4,7 +4,7 @@
 # Visit https://SAR-EQViz.earth/ for more details!
 
 <p align="center">
-  <img width="" height="400" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
+  <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
 </p>
 
 Disclaimer: This project is currently under construction. Some features might not be fully functional. And was developed in response to <a href="https://www.spaceappschallenge.org/2023/challenges/create-a-work-of-sart-synthetic-aperture-radar-art/">NASA International Space Apps Challenge</a> / <a href="https://www.spaceappschallenge.org/2023/locations/tangier/">Casablanca</a>
@@ -47,7 +47,7 @@ Each subfolder has it own README.
 ## :star: Team
 Meet the team:
 <p align="center">
-  <img width="" height="300" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
+  <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
 </p
 
 <a href="https://www.linkedin.com/in/farahelghemary/">EL GHEMARY Farah: </a>Team Leader
