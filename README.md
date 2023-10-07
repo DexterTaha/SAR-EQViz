@@ -47,7 +47,7 @@ Each subfolder has it own README.
 ## :star: Team
 Meet the team:
 <p align="center">
-  <img width="700" height="235" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
+  <img width="" height="300" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/img/Project%20Logo.png">
 </p
 
 <a href="https://www.linkedin.com/in/farahelghemary/">EL GHEMARY Farah: </a>Team Leader
