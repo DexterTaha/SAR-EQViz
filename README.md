@@ -30,7 +30,8 @@ Repository Structure:
 | Data       | Various types of collected and analyzed data  |
 | Documentation     | Code of the user interface    |
 | Images  |  Images     |
-| doc |   Documentation    |
+| Resources |   Resources    |
+| Src |   Code of the user interface    |
 | README |  Introduction     |
 
 Each subfolder has it own README.
