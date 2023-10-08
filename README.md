@@ -60,7 +60,7 @@ Meet the team:
 
 <a href="https://www.linkedin.com/in/oualid-elidrissi/">Oualid ELIDRISSI: </a>Data Scientist
 
-<a href="">Nisrine Lach-hab: </a>Nisrine Lach-hab
+<a href="">Nisrine Lach-hab: </a>full-stack developer
 
 
 
