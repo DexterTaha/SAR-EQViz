@@ -1,7 +1,7 @@
 # SAR-EQViz
 <a href="https://dextertaha.github.io/SAR-EQViz/index.html">SAR-EQViz</a> is combines Sentinel-1 SAR imagery & drone scan to display the 2023 Moroccan earthquake's impact, guiding reconstruction efforts..
 
-# Visit https://SAR-EQViz.earth/ for more details!
+# Visit https://dextertaha.github.io/SAR-EQViz/index.html for more details!
 
 <p align="center">
   <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/Project%20Logo.png">
