@@ -27,10 +27,9 @@ Repository Structure:
 
 | Folder        | Description      |
 | ------------- |-------------|
-| data       | Various types of collected and analyzed data  |
-| src     | Code of the user interface    |
-| res  |  Static resources      |
-| sample  |  User interface demos   |
+| Data       | Various types of collected and analyzed data  |
+| Documentation     | Code of the user interface    |
+| Images  |  Images     |
 | doc |   Documentation    |
 | README |  Introduction     |
 
