@@ -17,7 +17,7 @@ Users such as civil engineers, urban planners, architects, and the local governm
 It not only bridges the gap between raw data and human stories but also empowers decision-makers with actionable insights for targeted rehabilitation plans.
 
 
-Project demo (30s):  Project pitch (~5min): 
+Project demo (30s):  Project pitch (~5min):https://drive.google.com/file/d/1O9ageSt9JiPlZ7JW9TIlhPlrTv8nTnOL/view 
 
 More details can be found in the subfolders listed bellow.
 
