@@ -1,5 +1,5 @@
 # SAR-EQViz
-<a href="https://www.SAR-EQViz.earth">SAR-EQViz</a> is combines Sentinel-1 SAR imagery & drone scan to display the 2023 Moroccan earthquake's impact, guiding reconstruction efforts..
+<a href="https://dextertaha.github.io/SAR-EQViz/index.html">SAR-EQViz</a> is combines Sentinel-1 SAR imagery & drone scan to display the 2023 Moroccan earthquake's impact, guiding reconstruction efforts..
 
 # Visit https://SAR-EQViz.earth/ for more details!
 
