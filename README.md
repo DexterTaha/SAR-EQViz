@@ -47,8 +47,10 @@ Each subfolder has it own README.
 Meet the team:
 <p align="center">
   <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/Project%20Logo.png">
-</p
-
+</p>
+<p align="center">
+  <img width="500" height="" src="https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/Team%20Pic.JPG">
+</p>
 <a href="https://www.linkedin.com/in/farahelghemary/">EL GHEMARY Farah: </a>Team Leader
 
 <a href="https://www.linkedin.com/in/taha-taidi-laamiri/">TAIDI LAAMIRI Taha: </a>Prototyping Manager
@@ -56,6 +58,8 @@ Meet the team:
 <a href="https://www.linkedin.com/in/youssef-el-abbassi/">YOUSSEF EL ABBASSI: </a>Hardware Developer
 
 <a href="https://www.linkedin.com/in/oualid-elidrissi/">Oualid ELIDRISSI: </a>Data Scientist
+
+<a href="">Nisrine Lach-hab: </a>Nisrine Lach-hab
 
 
 --------
