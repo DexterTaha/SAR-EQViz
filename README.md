@@ -18,9 +18,7 @@ It not only bridges the gap between raw data and human stories but also empowers
 | Folder        | Description      |
 | ------------- |-------------|
 | Data       |The data used in this project |
-| Documentation     | Code of the user interface    |
 | Images  |  Images     |
-| Resources |   Resources    |
 | docs |   Website Code  |
 | README |  Description     |
 
