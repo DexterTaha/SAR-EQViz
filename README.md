@@ -17,11 +17,11 @@ It not only bridges the gap between raw data and human stories but also empowers
 
 | Folder        | Description      |
 | ------------- |-------------|
-| Data       | Various types of collected and analyzed data  |
+| Data       |The data used in this project |
 | Documentation     | Code of the user interface    |
 | Images  |  Images     |
 | Resources |   Resources    |
-| docs |   Code of the user interface    |
+| docs |   Website Code  |
 | README |  Description     |
 
 Each subfolder has it own README.
