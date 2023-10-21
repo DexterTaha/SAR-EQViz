@@ -23,10 +23,10 @@ Instead of direct SAR data, we utilized a treated and processed photo from [sent
 
 ### Ground Displacement
 
-![Morocco_earthquake_deformation](https://github.com/DexterTaha/SAR-EQViz/blob/main/Data/Morocco_earthquake_deformation.jpg)
+![Morocco_earthquake_deformation](https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/Morocco_earthquake_deformation.jpg)
 
 ### interferometric Imaging
-![Morocco_earthquake_deformation](https://github.com/DexterTaha/SAR-EQViz/blob/main/Data/Morocco_earthquake_fringes.jpg)
+![Morocco_earthquake_deformation](https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/Morocco_earthquake_fringes.jpg)
 
 ### 3D Drone Scans
-![3D Drone Scans](https://github.com/DexterTaha/SAR-EQViz/blob/main/Data/VID-20231008-WA0025.mp4)
+![3D Drone Scans](https://github.com/DexterTaha/SAR-EQViz/blob/main/Images/VID-20231008-WA0025.mp4)
