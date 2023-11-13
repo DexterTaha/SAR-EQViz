@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>SAR-EQViz Project</title>
-</head>
-<body>
-
   <h1 style="text-align: center;">SAR-EQViz Project</h1>
   
   <p align="center">
@@ -107,6 +99,3 @@
     <li><a href="https://www.linkedin.com/in/oualid-elidrissi/">Oualid ELIDRISSI:</a> Data Scientist</li>
     <li>Nisrine Lach-hab: Full-Stack Developer</li>
   </ul>
-
-</body>
-</html>
